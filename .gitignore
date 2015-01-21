@@ -1,0 +1,3 @@
+.hg/*
+.hgignore
+bower_components/*
